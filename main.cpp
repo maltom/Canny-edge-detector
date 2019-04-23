@@ -22,7 +22,7 @@ int main()
 {
 	
 	sf::Image imydz;
-	imydz.loadFromFile("papusia2.jpg");
+	imydz.loadFromFile("lena.jpg");
 	int x = imydz.getSize().x;
 	int y = imydz.getSize().y;
 
